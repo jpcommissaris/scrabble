@@ -1,5 +1,6 @@
 # Scrabble 
 - use main.py to run 
+- use test_game.py to test game logic and test_cli.py to test cli logic
 
 ## Rules
 - Place letters on the board to form words

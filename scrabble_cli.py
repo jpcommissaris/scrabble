@@ -1,6 +1,7 @@
 from handle_player_input import handle_player_input
 from game import Game
 
+
 DIGITS = '1 2 3 4 5 6 7 8 9 a b c d e f'
 SIZE = 15 
 PLAYERS = 2
